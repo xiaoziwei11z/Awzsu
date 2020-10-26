@@ -1,0 +1,12 @@
+speech
+
+id		文本	ID
+parentid		文本	上级ID
+userid		文本	发布人ID
+username		文本	发布人昵称
+content		文本	动态内容
+visits		整型	浏览量
+thumbups		整型	点赞数
+comments	整型	评论数
+createtime	日期	发布日期
+state		文本	状态

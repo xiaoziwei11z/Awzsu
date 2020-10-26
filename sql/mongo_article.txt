@@ -1,0 +1,8 @@
+comment
+
+_id		文本	ID
+articleid		文本	上级ID
+userid		文本	发布人ID
+username		文本	发布人昵称
+content		文本	内容
+createtime	日期	发布日期
